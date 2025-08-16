@@ -1,5 +1,5 @@
-Install (Required Blender 3.3-3.6 and [CM3D2 Converter](https://github.com/luvoid/Blender-CM3D2-Converter/releases))
-overwrite anm_export.py in cm3d2 converter folder
+(Required Blender 3.3-3.6 and [CM3D2 Converter](https://github.com/luvoid/Blender-CM3D2-Converter/releases))
+Install: Overwrite anm_export.py in cm3d2 converter folder
 
 All Frame
 "Export All Frames" checkbox ON
